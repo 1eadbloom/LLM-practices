@@ -7,7 +7,6 @@ https://colab.research.google.com/drive/1qFN2RBlRJzFPn_1MR1OYOtFwySfHQ0XY?usp=sh
 https://colab.research.google.com/drive/1cjnK0-ECKOnjVvK1gRSi7-HLi4ibP79a?usp=sharing
 
 Softmax模型測試
-
 Gemini : https://colab.research.google.com/drive/1i9lDgfsvVYDbSgbk2ZAEs8ZwF8VSqRj0?usp=sharing
 Cursor : https://colab.research.google.com/drive/14ra43DRrU8dhvDYU0A1S7GlDSxRfuUUy?usp=sharing
 
