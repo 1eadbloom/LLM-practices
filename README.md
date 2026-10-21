@@ -1,3 +1,5 @@
+本課程專案皆於COLAB平台進行開發，每個連結包含程式碼及註解，附檔的.pdf為作業分析的書面報告:
+
 Python繪製函數圖形
 https://colab.research.google.com/drive/1qFN2RBlRJzFPn_1MR1OYOtFwySfHQ0XY?usp=sharing
 
